@@ -1,4 +1,4 @@
-<p>Inicie formándome como desarrollador web en mayo del corriente con conocimientos nulos en todos los lenguajes, hoy en día mirando al pasado han aumentado considerablemente, y estoy orgulloso de ello, pero cuando miro al futuro se que me falta aun mas por recorrer, por lo cual estoy seguro que la pasión que he descubierto por esta profesión, harán que ese camino sea cada día una experiencia agradable como lo ha sido hasta ahora.</p>
+<p>Inicie formándome como desarrollador web en mayo del corriente con conocimientos nulos en todos los lenguajes, actualmente mirando al pasado veo que han aumentado considerablemente, y estoy orgulloso de ello, pero cuando miro al futuro se que me falta aun mas por recorrer, por lo cual estoy seguro que la pasión que he descubierto por esta profesión, harán que ese camino sea cada día una experiencia agradable como lo ha sido hasta ahora.</p>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
