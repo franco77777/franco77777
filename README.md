@@ -4,7 +4,7 @@
     width="200"
     alt=""
   />
-  <h1 align="center">Hola 👋, soy Franco</h1>
+  <h1 align="center">Hola 👋</h1>
   <p>
     Inicie formándome como desarrollador web en mayo del 2022 con conocimientos
     nulos en todos los lenguajes, actualmente considero que he avanzado mucho,
